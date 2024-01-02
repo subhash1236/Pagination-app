@@ -1,0 +1,10 @@
+const public = [
+    {
+        "id":1,
+        "FirstName": "John",
+        "last_name": "subhs",
+        
+    }
+]
+
+export default public
